@@ -1,0 +1,9 @@
+This is an automatically updated repository of libnbd bindings built from the
+upstream repository located at:
+
+  https://github.com/libguestfs/libnbd
+
+Everything under `/pkg` is generated from that repository and changes to those
+files should be made only through changes in the original repository.  This
+repository exists purely to ease the usability of libnbd go code so that it can
+be consumed in the standard go-style fashion.
